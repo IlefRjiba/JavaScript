@@ -1,0 +1,14 @@
+form{
+    display: table;
+}
+
+div{
+    display: table-cell;
+    padding: 20px;
+}
+
+#test{
+    color: black;
+    size: 20px;
+    font-family: monospace;
+}
